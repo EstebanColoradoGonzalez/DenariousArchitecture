@@ -9,9 +9,7 @@ Denarious is a web application developed with HTML, CSS and JavaScript, designed
   - [Index](#index)
   - [Characteristics](#characteristics)
   - [Installation](#installation)
-  - [Uso](#uso)
-
-  
+  - [Use](#use)
 
 ## Characteristics
 
@@ -40,7 +38,7 @@ cd denarious
 
 ```
 
-## Uso
+## Use
 
 To run the project locally, open the `index.html` file in your preferred browser:
 
